@@ -1,0 +1,9 @@
+version: 1.0.0
+kind: openai
+entry: SKILL.md
+description: "电影值不值得看：免费观影决策助手，口味测试+多平台评分+评价深度总结+个性化建议+购票攻略"
+capabilities:
+  - taste-profiling
+  - multi-platform-ratings
+  - review-synthesis
+  - personalized-recommendation
